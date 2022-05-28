@@ -1,0 +1,25 @@
+{
+  "IdentityData": {
+    "Roles": [
+      {
+        "Name": "admin"
+      }
+    ],
+    "Users": [
+      {
+        "Username": "admin",
+        "Password": "B@0probmt955IdentityServer",
+        "Email": "thanhbao0408@gmail.com",
+        "Roles": [
+          "admin"
+        ],
+        "Claims": [
+          {
+            "Type": "name",
+            "Value": "admin"
+          }
+        ]
+      }
+    ]
+  }
+}
